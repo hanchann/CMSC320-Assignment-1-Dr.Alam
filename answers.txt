@@ -3,3 +3,6 @@ Answer: Git is a great way to track changes in your code over time.
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 Answer: Data science can be applied to the medical field to advance medical research and studies. One use of data science in this field is for clinical trials. Analysis of previous data or trials can help researchers choose participants who are more likely to respond to the treatment or drug.
+
+Q3: What is the difference between merging and rebasing?
+Answer: Merging combines the changes from one branch into another branch. While rebasing transfers the commits from one branch onto another.
