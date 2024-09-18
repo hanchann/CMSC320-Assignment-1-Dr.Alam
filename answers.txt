@@ -6,3 +6,6 @@ Answer: Data science can be applied to the medical field to advance medical rese
 
 Q3: What is the difference between merging and rebasing?
 Answer: Merging combines the changes from one branch into another branch. While rebasing transfers the commits from one branch onto another.
+
+Q4: What skills do you hope to improve during this course?
+Answer: One skill that I am hoping to improve is SQL. I took a data science STIC last semester and learned a little bit about SQL so I would like to build on that knowledge in this course.
